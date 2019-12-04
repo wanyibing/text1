@@ -11,7 +11,7 @@ public class MyController {
 	@RequestMapping("list")
 	public String getlist() {
 		// A xiugai le yihang
-		
+		//BBBBBBBBBBB
 		return "list";
 		// B xiugai  yihang 
 	}
