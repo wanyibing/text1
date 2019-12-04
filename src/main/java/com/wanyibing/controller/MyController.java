@@ -8,7 +8,7 @@ public class MyController {
 
 	@RequestMapping("list")
 	public String getlist() {
-		//A
+		// A xiugai le yihang
 		
 		return "list";
 	}
