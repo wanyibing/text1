@@ -11,6 +11,7 @@ public class MyController {
 		// A xiugai le yihang
 		
 		return "list";
+		// B xiugai  yihang 
 	}
 	
 }
