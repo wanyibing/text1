@@ -8,6 +8,7 @@ public class MyController {
 
 	@RequestMapping("list")
 	public String getlist() {
+		//A
 		
 		return "list";
 	}
